@@ -1,6 +1,6 @@
 @extends('layouts.home')
 
-@section('title', 'Ne Ararsan.com')
+@section('title', 'Ne Ararsan.com - Kerem Hasan Çelik')
 
 @section('description')
     Ne Ararsan.com Türkiye'nin en yeni ve en yenilikçi e-ticaret platformudur.
